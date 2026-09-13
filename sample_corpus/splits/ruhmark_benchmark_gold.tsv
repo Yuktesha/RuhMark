@@ -1,0 +1,3 @@
+CORPUS_ID	CATEGORY	DIFFICULTY	CHAR_LEN	OOV_RATE	CLEAN_TEXT	FEASIBLE_RUHI	NOTE
+dirty_corpus_sample_0001	general	L3	22	0.9000	詳細資料請參閱官方網址：或寄信至索取白皮書。	YES	含未登錄字(詳細資料請)
+dirty_corpus_sample_0002	general	L3	7	0.8333	真的太厲害了？	YES	含未登錄字(真太厲害了)

@@ -1,0 +1,2 @@
+# RuhMark Core Dependencies
+# Python 3.9+ supported

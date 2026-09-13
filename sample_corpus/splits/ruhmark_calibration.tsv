@@ -1,0 +1,7 @@
+CORPUS_ID	CATEGORY	DIFFICULTY	CHAR_LEN	OOV_RATE	CLEAN_TEXT	FEASIBLE_RUHI	NOTE
+dirty_corpus_sample_0004	general	L3	23	0.5714	這是重複的一行測試句子，用來檢驗自動去重功能。	YES	含未登錄字(重複測試句)
+dirty_corpus_sample_0005	general	L3	38	0.5455	AI智慧型自然語言理解核心於2026年正式昇華為 RuhMark 評測平台。	YES	含未登錄字(型言核心於)
+dirty_corpus_sample_0007	general	L3	42	0.6667	使用 Python 3.14 搭配現代化架構，我們成功實現了自適應空間接管第一原理。	YES	含未登錄字(搭配代化架)
+dirty_corpus_sample_0008	general	L3	18	0.6471	這是一段充滿歡樂笑聲的日常生活對話。	YES	含未登錄字(段充滿歡樂)
+dirty_corpus_sample_0003	general	L3	9	0.3750	這簡直是不可思議。	YES	含未登錄字(簡直議)
+dirty_corpus_sample_0006	general	L3	33	0.8750	老子說：「道可道，非常道；名可名，非常名。」隨後，眾人皆點頭稱善。	YES	含未登錄字(老子說道道)
